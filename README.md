@@ -1,17 +1,5 @@
 
----
 
-### 🔹 GitHub Project Description
-
-> **Title:** CIFAR-10 Image Classification using Convolutional Neural Networks  
-> **Description:**  
-> A deep learning project focused on classifying images from the CIFAR-10 dataset using Convolutional Neural Networks (CNNs). The notebook includes data preprocessing, model training, evaluation, and visualization of results. Ideal for beginners exploring image classification with TensorFlow/Keras.
-
----
-
-### 🔹 `README.md` Template
-
-Here’s a detailed `README.md` for your repository:
 
 # CIFAR-10 Image Classification with CNN
 
