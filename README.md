@@ -3,7 +3,7 @@
 
 # CIFAR-10 Image Classification with CNN
 
-This project demonstrates how to classify images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) using a Convolutional Neural Network (CNN) built with TensorFlow/Keras. The notebook walks through loading the dataset, preprocessing images, building and training the model, and visualizing its performance.
+This project demonstrates how to classify images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) using a Convolutional Neural Network (CNN) built with PyTorch. The notebook walks through loading the dataset, preprocessing images, building and training the model, and visualizing its performance.
 
 ---
 
