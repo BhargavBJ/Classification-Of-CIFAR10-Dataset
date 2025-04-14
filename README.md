@@ -10,9 +10,8 @@ This project demonstrates how to classify images from the [CIFAR-10 dataset](htt
 ## 🚀 Features
 
 - 📦 Load and preprocess CIFAR-10 dataset
-- 🧠 Build a CNN using Keras (Sequential API)
+- 🧠 Build a CNN 
 - 📊 Train and evaluate the model
-- 📈 Plot training history and classification results
 - 💡 Visualize sample predictions
 
 ---
@@ -20,7 +19,7 @@ This project demonstrates how to classify images from the [CIFAR-10 dataset](htt
 ## 🧰 Technologies Used
 
 - Python 3.x
-- TensorFlow / Keras
+- PyTorch
 - NumPy
 - Matplotlib
 - Seaborn
